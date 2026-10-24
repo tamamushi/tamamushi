@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/Zenn-24292e?style=for-the-badge&logo=zenn&logoColor=3EA8FF" alt="zenn" style="margin-bottom: 5px;" />
 </a>
 <a href="https://qiita.com/Tamamushi" target="_blank">
-<img src="https://img.shields.io/badge/Qiita-24292e?style=for-the-badge&logo=qiita&logoColor=55C500" alt="qiita" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="qiita" style="margin-bottom: 5px;" />
 </a>
 
 </div> 
